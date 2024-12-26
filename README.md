@@ -21,3 +21,5 @@ Currently, this repository is for showcasing completed projects. Contributions a
 If you have any questions or feedback, feel free to reach out via the repository's issues section or contact me directly.
 
 Thank you for visiting, and enjoy exploring the projects! 🚀
+
+If you want my analysis to edit or want in pbix file contact me directly.
